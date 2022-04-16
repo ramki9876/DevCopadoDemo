@@ -1,2 +1,1 @@
-This is my First Repository
-This is my First Commit
+Created for Demo
